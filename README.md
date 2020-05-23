@@ -2,6 +2,7 @@
 
 **Input:** Width, length, height, toe measurements (in mm) and the name of a particular shoes size
 ![Shoes parameters](/shoes.png "Shoes parameters")
+
 There are 17 shoes sizes in total, namely 6, 6T, 7, 7T, ..., 12, 12T, 13, 14, 15, meaning that there is no half size for 13, 14, 15.
 Therefore, the parameters of the other 16 shoes sizes will have to be calculated on the grounds that each half size is adjusted as follows:
 * Width increases by 1.5mm
@@ -9,7 +10,7 @@ Therefore, the parameters of the other 16 shoes sizes will have to be calculated
 * Height increases by 1.7mm
 * Toe increases by 0.4mm
 
-**Output:** A table of 4 or 5 box types that will minimize the weight of a typical order (which includes various shoes sizes, normal distributed)
+**Output:** A table of 4 or 5 box types, each with a matching range of shoes sizes that will minimize the weight of a typical order (which includes various shoes sizes, normal distributed)
 The weights of each box type is as following stated:
 
 Box type|Length|Width|Height|Weight
