@@ -10,7 +10,16 @@ Therefore, the parameters of the other 16 shoes sizes will have to be calculated
 * Height increases by 1.7mm
 * Toe increases by 0.4mm
 
-**Output:** A table of 4 or 5 box types, each with a matching range of shoes sizes that will minimize the weight of a typical order (which includes various shoes sizes, normal distributed)
+**Output:** A table of 4 or 5 box types, each with a matching range of shoes sizes that will minimize the weight of a typical order (which includes various shoes sizes, normal distributed). E.g:
+
+Sizes | Box type
+-|-
+6|B16
+6T - 9T|B18
+10 - 11|B19
+11T - 12T|B20
+13 - 15|B21
+
 The weights of each box type is as following stated:
 
 Box type|Length|Width|Height|Weight
