@@ -1,8 +1,8 @@
-# shoes_box
+# Problem: Choose optimized boxes for groups of shoes sizes
 
 ## Interactive diagram:
 https://www.geogebra.org/m/bckavsdb
-(move point F)
+(move point F only)
 
 ## Input:
 Width, length, height, toe measurements (in mm) and the name of ***one*** particular shoes size.
