@@ -26,7 +26,7 @@ Sizes | Box type
 11T - 12T|B20
 13 - 15|B21
 
-## Contraints:
+## Constraints:
 The weights of each box type is as following stated:
 
 Box type|Length|Width|Height|Weight
